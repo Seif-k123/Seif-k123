@@ -233,9 +233,6 @@ DevSecOps
   <a href="https://linkedin.com/in/seif-dora-406329314">
     <img src="https://img.shields.io/badge/LinkedIn-Seif%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Seif-k123">
-    <img src="https://img.shields.io/badge/GitHub-Seif--k123-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
