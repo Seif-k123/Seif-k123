@@ -60,11 +60,13 @@ I enjoy turning manual infrastructure and deployment processes into **automated,
 ### 🔄 CI/CD & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 
-### 📊 Monitoring & Observability
+### 📊 Monitoring, Logging & Observability
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
 ### 🔐 Security & DevSecOps
@@ -76,7 +78,7 @@ I enjoy turning manual infrastructure and deployment processes into **automated,
 
 ### 💻 Programming & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
 ---
