@@ -187,8 +187,10 @@ Kubernetes
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seif-k123&bg_color=0d1117&color=ffffff&line=4db8ff&point=ffffff&area=true&hide_border=true" />
+  <img src="./profile/contribution-snake.svg" alt="GitHub Contribution Activity" />
 </p>
+
+> Contribution activity is generated daily by GitHub Actions and stored in this repository.
 
 ---
 
