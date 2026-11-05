@@ -176,13 +176,11 @@ Kubernetes
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seif-k123&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-k123&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif-k123&theme=github-dark-blue&hide_border=true" />
-</p>
+> Stats cards are generated daily by GitHub Actions and stored in this repository.
 
 ---
 
